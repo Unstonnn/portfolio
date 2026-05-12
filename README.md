@@ -1,2 +1,2 @@
 # portfolio
-My Web Portfolio
+This is my portfolio, which I made as a website
